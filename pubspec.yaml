@@ -1,7 +1,7 @@
 name: keyboard
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/Nimalesh/virtual_keyboard
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
