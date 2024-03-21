@@ -1,6 +1,6 @@
-name: keyboard
-description: A new Flutter project.
-version: 0.0.1
+name: number_key
+description: A Super cool virtual keyboard to make sure you save your time with all on your control.
+version: 0.0.4
 homepage: https://github.com/Nimalesh/virtual_keyboard
 
 environment:
